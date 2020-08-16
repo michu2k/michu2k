@@ -1,16 +1,19 @@
-### Hi there 👋
+#### 🌴 Hi there ✋
 
-<!--
-**michu2k/michu2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michał and I'm Frontend/Javascript developer from Poland.
 
-Here are some ideas to get you started:
+##### Languages 💻 and Tools 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/next-dot-js.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/graphql.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /> &nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" />
