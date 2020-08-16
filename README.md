@@ -2,7 +2,7 @@
 
 My name is Michał and I'm Frontend/Javascript developer from Poland.
 
-##### Languages 💻 and Tools 🛠️
+#### Languages 💻 and Tools 🛠️
 
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /> &nbsp;
