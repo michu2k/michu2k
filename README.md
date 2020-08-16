@@ -1,4 +1,4 @@
-#### 🌴 Hi there ✋
+## Hi there ✋
 
 My name is Michał and I'm Frontend/Javascript developer from Poland.
 
