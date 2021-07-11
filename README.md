@@ -15,4 +15,5 @@ My name is Michał and I'm Frontend / Javascript developer from Poland. I spend 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" /> &nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> &nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> &nbsp;
+<img height="32" width="32" src="./images/mobx-state-tree.svg" />
