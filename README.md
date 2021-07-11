@@ -4,16 +4,18 @@ My name is Michał and I'm Frontend / Javascript developer from Poland. I spend 
 
 #### Languages 💻 and Tools 🛠️
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/visualstudiocode.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/sass.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/react.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/next-dot-js.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/graphql.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/github.svg" /> &nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /> &nbsp;
-<img height="32" width="32" src="./images/mobx-state-tree.svg" />
+<img height="32" width="32" src="./images/html5.svg" /> &nbsp;
+<img height="32" width="32" src="./images/css3.svg" /> &nbsp;
+<img height="32" width="32" src="./images/sass.svg" /> &nbsp;
+<img height="32" width="32" src="./images/styled-components.svg" /> &nbsp;
+<img height="32" width="32" src="./images/javascript.svg" /> &nbsp;
+<img height="32" width="32" src="./images/typescript.svg" /> &nbsp;
+<img height="32" width="32" src="./images/react.svg" /> &nbsp;
+<img height="32" width="32" src="./images/next-js.svg" /> &nbsp;
+<img height="32" width="32" src="./images/graphql.svg" /> &nbsp;
+<img height="32" width="32" src="./images/mobx-state-tree.svg" /> &nbsp;
+<img height="32" width="32" src="./images/mongodb.svg" /> &nbsp;
+<img height="32" width="32" src="./images/vs-code.svg" /> &nbsp;
+<img height="32" width="32" src="./images/photoshop.svg" /> &nbsp;
+<img height="32" width="32" src="./images/figma.svg" /> &nbsp;
+<img height="32" width="32" src="./images/git.svg" /> &nbsp;
