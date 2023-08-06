@@ -1,6 +1,6 @@
 ## Hi there ✋
 
-My name is Michał and I'm Front-End / Javascript developer from Poland. I spend most of my time building React applications and developing my open source projects written in JavaScript. Check out my projects below ⭐.
+My name is Michał and I'm Front-End / Javascript developer from Poland. I spend most of my time building React applications and developing my open source projects written mainly in Typescript. I also have my own blog on medium.com, where you can find technical articles, mainly focusing on the front-end technologies. Check out my projects below ⭐.
 
 #### Languages 💻 and Tools 🛠️
 
