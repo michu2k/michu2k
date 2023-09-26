@@ -1,6 +1,6 @@
 ## Hi there ✋
 
-My name is Michał and I'm Front-End / Javascript developer from Poland. I spend most of my time building React applications and developing my open source projects written mainly in Typescript. I also have my own blog on medium.com, where you can find technical articles, mainly focusing on the front-end technologies. Check out my projects below ⭐.
+My name is Michał and I'm Front-End / Javascript developer from Poland. I spend most of my time building React applications and developing my open source projects written mainly in Typescript. I also have my own blog on medium.com, where you can find technical articles, mainly focusing on the front-end technologies ⭐.
 
 #### Languages 💻 and Tools 🛠️
 
@@ -15,7 +15,7 @@ My name is Michał and I'm Front-End / Javascript developer from Poland. I spend
 <img height="32" width="32" src="./images/next-js.svg" /> &nbsp;
 <img height="32" width="32" src="./images/graphql.svg" /> &nbsp;
 <img height="32" width="32" src="./images/mongodb.svg" /> &nbsp;
+<img height="32" width="32" src="./images/prisma.svg" /> &nbsp;
 <img height="32" width="32" src="./images/vs-code.svg" /> &nbsp;
-<img height="32" width="32" src="./images/photoshop.svg" /> &nbsp;
 <img height="32" width="32" src="./images/figma.svg" /> &nbsp;
 <img height="32" width="32" src="./images/git.svg" /> &nbsp;
