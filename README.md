@@ -14,7 +14,8 @@ My name is Michał and I'm a Front-End developer from Poland. I spend most of my
 <img height="32" width="32" src="./images/react.svg" /> &nbsp;
 <img height="32" width="32" src="./images/next-js.svg" /> &nbsp;
 <img height="32" width="32" src="./images/graphql.svg" /> &nbsp;
-<img height="32" width="32" src="./images/mongodb.svg" /> &nbsp;
+<img height="32" width="32" src="./images/trpc.svg" /> &nbsp;
+<img height="32" width="32" src="./images/nestjs.svg" /> &nbsp;
 <img height="32" width="32" src="./images/prisma.svg" /> &nbsp;
 <img height="32" width="32" src="./images/vs-code.svg" /> &nbsp;
 <img height="32" width="32" src="./images/figma.svg" /> &nbsp;
