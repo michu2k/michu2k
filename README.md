@@ -1,6 +1,6 @@
 ## Hi there ✋
 
-My name is Michał and I'm a Frontend Developer from Poland. I spend most of my time building React applications and developing my open source projects written mainly in Typescript. I also have my own blog on medium.com [available here](https://medium.com/@michu2k), where you can find technical articles, mainly focusing on frontend technologies ⭐.
+My name is Michał and I'm a Frontend Developer from Poland. I spend most of my time building React applications and developing my open source projects written mainly in TypeScript. I also have my own blog on medium.com [available here](https://medium.com/@michu2k), where you can find technical articles, mainly focusing on frontend technologies ⭐.
 
 #### Languages 💻 and Tools 🛠️
 
